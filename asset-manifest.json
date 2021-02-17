@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Hangman-React/static/css/main.afd5c465.chunk.css",
-    "main.js": "/Hangman-React/static/js/main.5d12b4bc.chunk.js",
-    "main.js.map": "/Hangman-React/static/js/main.5d12b4bc.chunk.js.map",
+    "main.js": "/Hangman-React/static/js/main.aee2b64e.chunk.js",
+    "main.js.map": "/Hangman-React/static/js/main.aee2b64e.chunk.js.map",
     "runtime-main.js": "/Hangman-React/static/js/runtime-main.eb88256d.js",
     "runtime-main.js.map": "/Hangman-React/static/js/runtime-main.eb88256d.js.map",
     "static/js/2.a634b94f.chunk.js": "/Hangman-React/static/js/2.a634b94f.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.eb88256d.js",
     "static/js/2.a634b94f.chunk.js",
     "static/css/main.afd5c465.chunk.css",
-    "static/js/main.5d12b4bc.chunk.js"
+    "static/js/main.aee2b64e.chunk.js"
   ]
 }
