@@ -14,7 +14,6 @@ const GameGuessing = ({
 }) => {
 	const [guess, setGuess] = useState('');
 	useEffect(() => {
-		console.log('a');
 		if (gameStatus !== 'ongoing') {
 			return;
 		}

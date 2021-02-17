@@ -47,7 +47,6 @@ const Game = ({ showNotification }) => {
 	};
 
 	useEffect(() => {
-		console.log('b');
 		if (gameStatus === 'ongoing') {
 			const result = compare(targetWord, missLetters, correctLetters);
 			if (result === 'won') {
@@ -80,7 +79,6 @@ const Game = ({ showNotification }) => {
 						setCorrectLetters={setCorrectLetters}
 						missLetters={missLetters}
 						setMissLetters={setMissLetters}
-						compare={compare}
 					/>
 
 					{gameStatus === 'end' && (
